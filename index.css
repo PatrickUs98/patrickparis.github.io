@@ -1,0 +1,77 @@
+* {
+    box-sizing: content-box;
+}
+.navigation li {
+    display: inline-block;
+    position: relative;
+    margin-inline: 50px;
+    border-bottom: solid #893489;
+    
+}
+
+.navigation {
+    text-align: center;
+    margin: 20px 0;
+    color: white;
+    background-color: #15141F;
+}
+
+.cool {
+    color: #fdfd0ef5;
+}
+
+#cheatsheetitle {
+    text-align: center;
+    color:blanchedalmond;
+    background-color: #15141F;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 20px;
+    color: #0095ff;
+    background-color: #15141F;
+}
+
+h4 {
+    text-align: left;
+    margin-left: 20px;
+    color: white;
+    background-color: #15141F;
+}
+
+table #scoexa {
+    padding: 0 30px;
+}
+
+table #scoexam {
+    padding: 0 120px;
+}
+
+table, th, td {
+    text-align: center;
+    margin: 10px auto;
+    border: solid #893489;
+    background-color: #15141F;
+    color: white;
+}
+
+img {
+    width: 50%;
+    height: 500px;
+    margin-left: 25%;
+}
+
+#htmla {
+    color: white;
+    background-color: #15141F;
+    margin-left: 18%;
+}
+
+body {
+    background-color: #15141F;
+}
+
+span {
+    color: #0095ff;
+}
